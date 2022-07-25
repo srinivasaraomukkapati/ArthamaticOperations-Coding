@@ -1,4 +1,4 @@
 a=10
 b=4
-sum=a+b
-print("sum",sum)
+print("sum",a+b)
+print("Substract",a-b)
